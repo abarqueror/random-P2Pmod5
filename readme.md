@@ -1,0 +1,1 @@
+APP random que genera un número aleatorio y devuelve si es mayor que 0.5.
